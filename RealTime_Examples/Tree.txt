@@ -1,0 +1,6 @@
+----------------------------------------------------------------------------------------------
+  1) In github .fileExtension it is showing like .java. .py, .cpp, .., they took count after visiting every directories[Tree].
+    Basically Directories are Tree based DS
+  2)
+
+-------------------------------------------------------------------------------------------------
