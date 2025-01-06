@@ -26,7 +26,7 @@ public class Stack {
 
     // Push an element onto the stack
     public void push(int value) {
-        if (top == maxSize - 1) {
+        if (isFull()) {
             System.out.println("Stack is full. Cannot push " + value);
         } else {
             stack[++top] = value;  // Increment top and then add the element
