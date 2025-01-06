@@ -1,4 +1,17 @@
 // Stack implementation using an array
+/**
+Methods:
+push(value): Adds an element to the stack. It checks if the stack is full before pushing the element.
+pop(): Removes and returns the element from the top of the stack. It checks if the stack is empty before popping.
+peek(): Returns the top element of the stack without removing it.
+isEmpty(): Checks if the stack is empty by verifying if top is -1.
+isFull(): Checks if the stack is full by verifying if top has reached maxSize - 1.
+size(): Returns the current number of elements in the stack (top + 1).
+display(): Displays the current elements in the stack from bottom to top.
+*/
+
+
+
 public class Stack {
     private int maxSize;
     private int top;
