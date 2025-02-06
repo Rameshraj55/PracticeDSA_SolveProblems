@@ -6,6 +6,9 @@ public class Main {
 //        pattern2(6);
 //        pattern3(6);
 //        pattern4(6);
+//          pattern5(6);
+//        pattern6(6);
+
     }
 
     public static void pattern1(int n){
@@ -43,4 +46,24 @@ public class Main {
             System.out.println();
         }
     }
+
+    public static void pattern5(int n){
+        for (int row = 0; row < n; row++){
+            for (int col = n; col > row; col--){
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void pattern6(int n){
+        for (int row = 1; row <= n; row++){
+            for (int col = 1; col <= n-row+1; col++){
+                System.out.print(col + " ");
+            }
+            System.out.println();
+        }
+    }
+
+
 }
