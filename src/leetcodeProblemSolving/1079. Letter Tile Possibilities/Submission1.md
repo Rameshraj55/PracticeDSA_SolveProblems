@@ -25,13 +25,13 @@
    - **Algorithm Used:** _Sliding Window, Binary Search, etc._
    - **Time Complexity:** `O(n log n)`
    - **Space Complexity:** `O(n)`
+   - **My Submission Link:** [Submission-1](https://leetcode.com/problems/letter-tile-possibilities/submissions/1546589006)
    - **Steps:**  
      1. Step 1  
      2. Step 2  
      3. Step 3
-4. **Reference Submission Links**
-     1. [Solution1](https://leetcode.com/problems/letter-tile-possibilities/solutions/6431602/easiest-approach-beats-100-explained-with-video-c-java-python-js-explained)  
-     2.
+     
+
    
 
 ---
