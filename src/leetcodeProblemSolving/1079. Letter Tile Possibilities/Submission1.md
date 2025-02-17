@@ -28,7 +28,11 @@
    - **Steps:**  
      1. Step 1  
      2. Step 2  
-     3. Step 3  
+     3. Step 3
+4. **Reference Submission Links**
+     1. [Solution1](https://leetcode.com/problems/letter-tile-possibilities/solutions/6431602/easiest-approach-beats-100-explained-with-video-c-java-python-js-explained)  
+     2.
+   
 
 ---
 
